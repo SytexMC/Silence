@@ -1,0 +1,5 @@
+name: Silence
+version: '0.0.1'
+main: me.sytex.silence.Silence
+api-version: '1.19'
+authors: [ SytexMC ]
